@@ -1,0 +1,27 @@
+{"state":"1","content":{"Lists":[
+  {
+    "DayCode": 20220121,
+    "DayName": "2022年1月21日(周五)",
+    "Secent": [
+      {
+        "Id": 46189,
+        "Name": "全天(8:30-19:00)",
+        "SecentCode": 20220121,
+        "TicketNumber": 150,
+        "PeopleNumber": 149
+      }
+    ]
+  },
+  {
+    "DayCode": 20220122,
+    "DayName": "2022年1月22日(周六)",
+    "Secent": [
+      {
+        "Id": 46279,
+        "Name": "全天(8:30-19:00)",
+        "SecentCode": 20220122,
+        "TicketNumber": 150,
+        "PeopleNumber": 150
+      }
+    ]
+  },{"DayName":"2022年1月23日(周日)","DayCode":20220123,"Secent":[{"Id":46369,"Name":"全天(8:30-19:00)","SecentCode":20220123,"TicketNumber":150,"PeopleNumber":150}]},{"DayName":"2022年1月25日(周二)","DayCode":20220125,"Secent":[{"Id":46523,"Name":"全天(8:30-19:00)","SecentCode":20220125,"TicketNumber":150,"PeopleNumber":150}]},{"DayName":"2022年1月26日(周三)","DayCode":20220126,"Secent":[{"Id":46593,"Name":"全天(8:30-19:00)","SecentCode":20220126,"TicketNumber":150,"PeopleNumber":150}]},{"DayName":"2022年1月27日(周四)","DayCode":20220127,"Secent":[{"Id":46682,"Name":"全天(8:30-19:00)","SecentCode":20220127,"TicketNumber":150,"PeopleNumber":146}]}],"RealName":null,"Mobile":null,"CardTypeId":"-","CardNumber":null,"IsRealName":0}}
