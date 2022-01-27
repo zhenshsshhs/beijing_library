@@ -38,4 +38,4 @@
 
 网站效果:
 
-<img src=picture/预约效果2.jpeg>
+<img src=picture/预约效果.jpeg>
